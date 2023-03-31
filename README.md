@@ -1,4 +1,4 @@
-![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)
+[![LIJS Logo](https://raw.githubusercontent.com/longislandjavascript/longislandjavascript/main/public/logo.png)](https://www.lijs.org)
 
 # Meetup Event: March 2023
 ### JavaScript Errors
